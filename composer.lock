@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ab3e9764ad82919d8d74525353c3d7bd",
+    "content-hash": "fe98d5b6273afb290ead9fc717e121b2",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -603,7 +603,7 @@
         },
         {
             "name": "helbing/laravel-toolkit",
-            "version": "dev-master",
+            "version": "v0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/helbing/laravel-toolkit.git",
@@ -7030,7 +7030,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "helbing/laravel-toolkit": 20,
         "tymon/jwt-auth": 5
     },
     "prefer-stable": true,

@@ -11,7 +11,7 @@
         "php": "^7.2",
         "barryvdh/laravel-cors": "^0.11.4",
         "fideloper/proxy": "^4.0",
-        "helbing/laravel-toolkit": "dev-master",
+        "helbing/laravel-toolkit": "^0.1.0",
         "laravel/framework": "^6.0",
         "laravel/tinker": "^1.0",
         "mews/purifier": "^3.1",
